@@ -1,4 +1,5 @@
 TASKS:
+
 a) Download the dataset from Kaggle, google (community based discussion dataset à train the model through twitter dataset)
 b) Auto-analysis of sentiment of the users through their comments (Positive, Negative & Neutral)
 c) Plot a graph based on the output Vs timeline (15 days, 1 month, 3 months)
