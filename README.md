@@ -8,3 +8,6 @@ d) Further, enhance the accuracy of predicting the sentiment through neural netw
 
 
 In first try I used a pretrained model in NLP that is BERT MODEL,I improved the accuracy of the model using another NLP implementatiion.I have used two kind of datasets and both were taken from Kaggle.
+
+In NLPAaccurate I have used train_tweets and test_tweets dataset and in  HCL1 I have used Twitter_Data Dataset respectively.
+
